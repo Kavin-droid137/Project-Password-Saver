@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+.nav{
+    position: absolute;
+    width: 1300px;
+    height: 75px;
+    left: 0px;
+    top: 0px;
+}
+
+.header{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+
+    background: #181818;
+}
+
+.circle{
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    left: 8%;
+    right: 88.96%;
+    top: 15%;
+    bottom: 25%;
+
+    background: #5CB8E4;
+    border-radius: 100px;
+}
+
+.example{
+    position: absolute;
+    left: 12.9%;
+    right: 66.38%;
+    top: 15%;
+    bottom: 25%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 24px;
+
+    color: #8758FF;
+}
+
+.about{
+    position: absolute;
+    left: 62.48%;
+    right: 27.33%;
+    top: 15%;
+    bottom: 25%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 24px;
+
+    color: #8758FF;
+}
+
+.download{
+    position: absolute;
+    left: 77.59%;
+    right: 5.94%;
+    top: 15%;
+    bottom: 25%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 24px;
+
+    color: #8758FF;
+}
+
